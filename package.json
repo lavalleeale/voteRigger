@@ -1,0 +1,11 @@
+{
+  "name": "cwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "tsc": "^2.0.4",
+    "typescript": "^5.3.3"
+  }
+}
